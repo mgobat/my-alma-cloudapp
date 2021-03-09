@@ -21,7 +21,7 @@ export class MainComponent implements OnInit, OnDestroy {
 
   constructor(private restService: CloudAppRestService,
     private eventsService: CloudAppEventsService,
-    private alert: AlertService ) { }
+    privatez alert: AlertService ) { }
 
   ngOnInit() {
     this.pageLoad$ = this.eventsService.onPageLoad(this.onPageLoad);
