@@ -1,0 +1,7 @@
+{
+   "title": "My Alma Cloud App",
+   "description": "My Alma Cloud App",
+   "env": "https://na01-psb.alma.exlibrisgroup.com/institution/TR_INTEGRATION_INST",
+   "port": 4200,
+   "name": "my-alma-cloud-app"
+}
