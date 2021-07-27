@@ -1,5 +1,8 @@
 {
    "id": "my-alma-cloud-app",
    "title": "My Alma Cloud App",
-   "description": "My Alma Cloud App"
+   "subtitle": "Subtitle here",
+   "author": "Test Build",
+   "description": "My Alma Cloud App",
+   "version": "0.0.6"
 }
