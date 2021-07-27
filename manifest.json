@@ -1,8 +1,8 @@
 {
-   "id": "my-alma-cloudapp",
+   "id": "mgobat/my-alma-cloudapp",
    "title": "My Alma Cloud App",
    "subtitle": "Subtitle here",
    "author": "Test Build",
    "description": "My Alma Cloud App",
-   "version": "0.0.7"
+   "version": "0.0.8"
 }
